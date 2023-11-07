@@ -1,0 +1,3 @@
+/home/cryptic/Documents/Valhalla/cmake-build-debug/CMakeFiles/Valhalla.dir
+/home/cryptic/Documents/Valhalla/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cryptic/Documents/Valhalla/cmake-build-debug/CMakeFiles/rebuild_cache.dir
